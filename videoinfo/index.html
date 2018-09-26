@@ -18,6 +18,8 @@
     document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault();
       const file = document.querySelector('input').file[0];
+      ipcRender.send('video:submit', path)
+
     });
 </script>
 
