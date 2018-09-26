@@ -1,4 +1,3 @@
-
 {
   "name": "videoinfo",
   "version": "1.0.0",
@@ -10,6 +9,7 @@
   "author": "rupesh",
   "license": "ISC",
   "dependencies": {
-    "electron": "^3.0.0"
+    "electron": "^3.0.0",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
