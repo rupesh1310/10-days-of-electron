@@ -13,6 +13,8 @@
   <button type="submit">Get Info</button>
 </form>
   <script>
+        const electron = require('electron');
+    const { ipcRender } = electron;
     document.querySelector('form').addEventListener('submit', (event) => {
       event.preventDefault();
       const file = document.querySelector('input').file[0];
