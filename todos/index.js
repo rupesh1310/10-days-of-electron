@@ -8,16 +8,15 @@ app.on('ready', () => {
   mainWindow = new BrowserWindow({});
  mainWindow.loadURL(`file://${__dirname}/main.html`);
  
- const mainMenu = Menu.buildFromTemplate(menuTemplate);
- Menu.setApplicationMenu(mainMenu);
-});
-const menuTemplate = [
+ const menuTemplate = [
   {
     label: 'File',
     submenu: [
-      { label: 'New Scheduler'}
+      { label: 'New Todo' },
+
       {
         label: 'Quit',
+        accelerator: process.platform === 'darwin' ? 'Command+Q' : 'Ctrl+Q',
         click() {
           app.quit();
         }
@@ -26,6 +25,7 @@ const menuTemplate = [
   }
 ];
 
-if(process.platform === 'win32') {
+if (process.platform === 'darwin') {
   menuTemplate.unshift({});
 }
+
