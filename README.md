@@ -21,7 +21,7 @@ $ npm install
 $ npm start
 ```
 
-![](https://img.shields.io/badge/Day-0-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Day-0-blue.svg?style=for-the-badge)  ![](https://img.shields.io/badge/videoinfo-blue.svg?style=for-the-badge)
 ![alt tag](videoinfo/final.gif)
 
 
