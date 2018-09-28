@@ -13,7 +13,7 @@ app.on('ready', () => {
   addWindow = new BrowserWindow({
     width: 300,
     height: 200,
-    title: 'Add New Todo';
+    title: 'Add New Todo'
   });
 }
   
@@ -21,7 +21,10 @@ app.on('ready', () => {
   {
     label: 'File',
     submenu: [
-      { label: 'New Todo' },
+      { 
+        label: 'New Todo'
+            click() { createAddWindow(); }
+      },
 
       {
         label: 'Quit',
