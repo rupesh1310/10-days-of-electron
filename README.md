@@ -4,3 +4,6 @@
 
 ![](https://img.shields.io/badge/Day-0-blue.svg?style=for-the-badge)
 ![alt tag](videoinfo/final.gif)
+
+
+![](https://img.shields.io/badge/Day-1-red.svg?style=for-the-badge)
