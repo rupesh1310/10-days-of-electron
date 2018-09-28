@@ -27,3 +27,6 @@ $ electron .
 
 ![](https://img.shields.io/badge/Day-1-red.svg?style=for-the-badge)  ![](https://img.shields.io/badge/todos-red.svg?style=for-the-badge)
 ![alt tag](todos/todo.gif)
+
+
+![](https://img.shields.io/badge/Day-2-orange.svg?style=for-the-badge) ![](https://img.shields.io/badge/taskmanager-orange.svg?style=for-the-badge)
