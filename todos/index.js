@@ -16,6 +16,7 @@ app.on('ready', () => {
     title: 'Add New Todo'
   });
     addWindow.loadURL(`file://${__dirname}/add.html`);
+    addWindow.on('closed', () => null);
 }
   
   ipcMain.on('todo:add', (event, todo) => {
