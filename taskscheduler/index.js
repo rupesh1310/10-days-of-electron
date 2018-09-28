@@ -13,6 +13,19 @@ app.on('ready', () => {
 });
 const menuTemplate = [
   {
-    label: 'File'
+    label: 'File',
+    submenu: [
+      { label: 'New Scheduler'}
+      {
+        label: 'Quit',
+        click() {
+          app.quit();
+        }
+      }
+    ]
   }
 ];
+
+if(process.platform === 'win32') {
+  menuTemplate.unshift({});
+}
