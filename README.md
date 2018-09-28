@@ -29,4 +29,4 @@ $ electron .
 ![alt tag](todos/todo.gif)
 
 
-![](https://img.shields.io/badge/Day-2-orange.svg?style=for-the-badge) ![](https://img.shields.io/badge/taskmanager-orange.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Day-2-orange.svg?style=for-the-badge) [![](https://img.shields.io/badge/taskmanager-orange.svg?style=for-the-badge)](https://github.com/rupesh1310/taskmanager)
