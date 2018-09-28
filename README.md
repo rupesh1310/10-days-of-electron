@@ -18,7 +18,7 @@ $ cd filename
 $ npm install
 
 # Run the app
-$ npm start
+$ electron .
 ```
 
 ![](https://img.shields.io/badge/Day-0-blue.svg?style=for-the-badge)  ![](https://img.shields.io/badge/videoinfo-blue.svg?style=for-the-badge)
