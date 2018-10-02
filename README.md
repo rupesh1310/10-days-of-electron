@@ -28,6 +28,7 @@ $ electron .
 
 
 ![](https://img.shields.io/badge/Day-1-red.svg?style=for-the-badge)  ![](https://img.shields.io/badge/todos-red.svg?style=for-the-badge)
+
 2. [**todos:**](https://github.com/rupesh1310/10-days-of-electron/tree/master/todos) Manipulating multiple windows with Electron, customizing menu bars, and developing with an emphasis on cross-platform experience
 ![alt tag](todos/todo.gif)
 
