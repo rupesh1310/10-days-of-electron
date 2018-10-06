@@ -22,7 +22,8 @@ $ electron .
 ```
 
 ![](https://img.shields.io/badge/Day-0-blue.svg?style=for-the-badge)  ![](https://img.shields.io/badge/videoinfo-blue.svg?style=for-the-badge)
- [**Video Info:**](https://github.com/rupesh1310/10-days-of-electron/tree/master/videoinfo) Familiarizing with basics of Electron app development, analyzing video files using the FFMPEG CLI
+
+[**Video Info:**](https://github.com/rupesh1310/10-days-of-electron/tree/master/videoinfo) Familiarizing with basics of Electron app development, analyzing video files using the FFMPEG CLI
 
 ![alt tag](videoinfo/final.gif)
 
