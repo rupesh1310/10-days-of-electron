@@ -34,5 +34,5 @@ $ electron .
 ![alt tag](todos/todo.gif)
 
 
-![](https://img.shields.io/badge/Day-2-orange.svg?style=for-the-badge) [![](https://img.shields.io/badge/VideoConverter-orange.svg?style=for-the-badge)](https://github.com/rupesh1310/video-file-converter)
-![alt tag](converter.gif)
+ [**VideoConverter:**](https://github.com/rupesh1310/video-file-converter)Integrating Electron with React and Redux to convert video files.
+![alt tag](./converter.gif)
