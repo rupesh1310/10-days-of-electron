@@ -33,6 +33,7 @@ $ electron .
  [**todos:**](https://github.com/rupesh1310/10-days-of-electron/tree/master/todos) Manipulating multiple windows with Electron, customizing menu bars, and developing with an emphasis on cross-platform experience
 ![alt tag](todos/todo.gif)
 
+![](https://img.shields.io/badge/Day-2-orange.svg?style=for-the-badge)  ![](https://img.shields.io/badge/Video_Converter-red.svg?style=for-the-badge)
 
  [**VideoConverter:**](https://github.com/rupesh1310/video-file-converter)Integrating Electron with React and Redux to convert video files.
 ![alt tag](./converter.gif)
